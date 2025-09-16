@@ -61,3 +61,19 @@ The system automatically controls the street lights based on ambient light inten
 ---
 
 ## 📊 Serial Monitor Example
+**Light Intensity: 350
+**PIR State: 0
+
+
+---
+
+## 📌 Future Improvements
+- Replace LEDs with **real street lamps** (relays or MOSFET drivers).  
+- Add **IoT support** (Blynk / MQTT / ThingSpeak) for remote monitoring.  
+- Implement **energy-saving algorithms**.  
+
+---
+
+## 👨‍💻 Author
+Developed by **Manish R** ✨  
+
